@@ -3,7 +3,7 @@ nltk.download('wordnet')
 
 from nltk.corpus import wordnet
 
-input_word = 'Heated Apparel'
+input_word = ''
 
 input_words = input_word.split()
 
