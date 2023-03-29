@@ -29,4 +29,4 @@ def generate_synonyms(input_phrase):
                         if synonym2 != input_phrase and synonym2 not in synonyms:
                             synonyms.append(synonym2)
 
-    print(synonyms)
+    return synonyms
